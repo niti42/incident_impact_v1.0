@@ -1,0 +1,1 @@
+# incident_impact_v1.0
