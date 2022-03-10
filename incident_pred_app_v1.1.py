@@ -46,7 +46,7 @@ rf_model = load(open('incident_impact_rf.pkl', 'rb'))
 
 # Define the impact scale
 impact_scale = {1:'High',
-                2:'Moderate',
+                2:'Medium',
                 3:'Low'}
 
 # Default values to fill if input box is empty
